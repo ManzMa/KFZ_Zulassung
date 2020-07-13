@@ -1,2 +1,4 @@
 # KFZ_Zulassung
-KFZ
+KFZ Zulassungsprogramm
+
+Owners: *Mahtias Manzenreiter
